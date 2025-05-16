@@ -75,9 +75,7 @@ public class Napky_Said_codigoEnigma {
                     }
 
                     System.out.println(palabra_og);
-
                     break;
-
                 default:
                     System.out.println("Esta Opcion No Existe");
                     break;
@@ -86,3 +84,4 @@ public class Napky_Said_codigoEnigma {
         }
     }
 }
+ 
